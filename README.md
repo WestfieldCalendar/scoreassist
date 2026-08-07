@@ -1,31 +1,14 @@
 # Game Show Scoring Console
 
-Dependency-free HTML/CSS/JavaScript app for GitHub Pages and offline use.
+Open `index.html` locally or publish the files to GitHub Pages.
 
-## Thirty independent shows
+## New testing features
 
-The Show selector stores 30 separate episode records. Every show has its own:
-
-- Team names and scores
-- Active round and question counters
-- Notes
-- Capitalization Round setup and used tiles
-- Question and result log
-- Undo history
-
-Switching shows automatically saves the current episode and restores the selected episode. The autosave status names the show being saved.
-
-## Capitalization Round setup
-
-Open **Season Setup**, select a show, and configure 1 to 5 category questions plus each question's point value for every board tile. Configurations are unique to each show.
-
-## Backups
-
-- **Save Session** exports all 30 show records and the complete season setup.
-- **Load Session** restores the complete season file.
-- **Export Season** exports only the 30 Capitalization Round configurations.
-- **Export CSV** exports the question log of the currently selected show.
+- A **FIX** button is available in every round.
+- FIX creates an entry under **Edit Notes**, recording the show, round, and current question context, without a timestamp.
+- Reasons can be entered later and saved automatically.
+- **Reset Episode** resets only the selected show and preserves the other 29 shows and all Season Setup configurations.
 
 ## GitHub Pages
 
-Upload `index.html`, `.nojekyll`, and `README.md` to the repository root. In **Settings > Pages**, deploy from the `main` branch and `/ (root)`.
+Upload `index.html`, `.nojekyll`, and `README.md` to the repository root. Under **Settings > Pages**, deploy from the `main` branch and `/ (root)`.
