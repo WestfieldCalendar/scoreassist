@@ -1,13 +1,20 @@
 # Game Show Scoring Console
 
-Open `index.html` locally or publish the files to GitHub Pages.
+Open `index.html` locally or publish these files to GitHub Pages.
 
-## New testing features
+## CSV export
 
-- A **FIX** button is available in every round.
-- FIX creates an entry under **Edit Notes**, recording the show, round, and current question context, without a timestamp.
-- Reasons can be entered later and saved automatically.
-- **Reset Episode** resets only the selected show and preserves the other 29 shows and all Season Setup configurations.
+The current episode CSV includes:
+
+- Show number
+- Round and question
+- Result
+- Score changes
+- Both team names
+- Running total score for each team after every logged result
+- Edit Notes matched to the corresponding round and question
+
+FIX entries that cannot be matched to a result are exported as separate `FIX note only` rows so they are not lost. Empty reasons are marked `[Reason not entered]`.
 
 ## GitHub Pages
 
