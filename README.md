@@ -1,21 +1,11 @@
-# Game Show Scoring Console
+# ASMW Score Assist
 
-Open `index.html` locally or publish these files to GitHub Pages.
+A standalone HTML/CSS/JavaScript scoring console that can run locally or through GitHub Pages.
 
-## CSV export
-
-The current episode CSV includes:
-
-- Show number
-- Round and question
-- Result
-- Score changes
-- Both team names
-- Running total score for each team after every logged result
-- Edit Notes matched to the corresponding round and question
-
-FIX entries that cannot be matched to a result are exported as separate `FIX note only` rows so they are not lost. Empty reasons are marked `[Reason not entered]`.
-
-## GitHub Pages
+## Publish through GitHub Pages
 
 Upload `index.html`, `.nojekyll`, and `README.md` to the repository root. Under **Settings > Pages**, deploy from the `main` branch and `/ (root)`.
+
+## Local use
+
+Open `index.html` or `ASMW-Score-Assist.html` in Microsoft Edge or Chrome.
