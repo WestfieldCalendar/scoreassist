@@ -1,0 +1,1133 @@
+{
+  "schemaVersion": 1,
+  "season": 66,
+  "updated": "2026-09-29",
+  "configs": {
+    "2101": {
+      "tiles": {
+        "Arts & Entertainment::30": [
+          10,
+          10,
+          10
+        ],
+        "Arts & Entertainment::25": [
+          10,
+          10,
+          5
+        ],
+        "Arts & Entertainment::20": [
+          10,
+          10
+        ],
+        "Arts & Entertainment::15": [
+          5,
+          5,
+          5
+        ],
+        "World Events::30": [
+          10,
+          10,
+          10
+        ],
+        "World Events::25": [
+          10,
+          10,
+          5
+        ],
+        "World Events::20": [
+          10,
+          10
+        ],
+        "World Events::15": [
+          5,
+          5,
+          5
+        ],
+        "Literature::30": [
+          10,
+          10,
+          10
+        ],
+        "Literature::25": [
+          10,
+          10,
+          5
+        ],
+        "Literature::20": [
+          10,
+          10
+        ],
+        "Literature::15": [
+          5,
+          5,
+          5
+        ],
+        "Social Studies::30": [
+          10,
+          10,
+          10
+        ],
+        "Social Studies::25": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "Social Studies::20": [
+          10,
+          10
+        ],
+        "Social Studies::15": [
+          5,
+          5,
+          5
+        ],
+        "Math & Science::30": [
+          10,
+          10,
+          10
+        ],
+        "Math & Science::25": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "Math & Science::20": [
+          10,
+          10
+        ],
+        "Math & Science::15": [
+          5,
+          5,
+          5
+        ],
+        "General Knowledge::30": [
+          10,
+          10,
+          10
+        ],
+        "General Knowledge::25": [
+          10,
+          10,
+          5
+        ],
+        "General Knowledge::20": [
+          10,
+          10
+        ],
+        "General Knowledge::15": [
+          5,
+          5,
+          5
+        ]
+      }
+    }
+  },
+  "questions": {
+    "2101": {
+      "r1": [
+        {
+          "question": "WHAT POPULAR BROADWAY MUSICAL FEATURES THE SONGS “MY SHOT” AND “THE ROOM WHERE IT HAPPENS”?",
+          "answer": "HAMILTON",
+          "value": 10
+        },
+        {
+          "question": "WHAT IS THE MAXIMUM NUMBER OF DIAGONALS THAT CAN BE DRAWN IN A HEXAGON?",
+          "answer": "9",
+          "value": 10
+        },
+        {
+          "question": "THE REVOLUTIONARY WAR, THE CIVIL WAR, OR WORLD WAR I: DURING WHICH CONFLICT DID THE BATTLE OF YORKTOWN OCCUR?",
+          "answer": "THE REVOLUTIONARY WAR",
+          "value": 10
+        },
+        {
+          "question": "WHAT LITERARY TERM DESCRIBES A COMPARISON THAT USES LIKE OR AS?",
+          "answer": "SIMILE (SIM-ILL-EE)",
+          "value": 10
+        },
+        {
+          "question": "AT 330 METERS IN HEIGHT, WHAT LANDMARK IN EUROPE WAS THE TALLEST MAN-MADE STRUCTURE IN THE WORLD FROM 1889 UNTIL 1930?",
+          "answer": "THE EIFFEL TOWER",
+          "value": 10
+        },
+        {
+          "question": "IN THE HUMAN BODY WHAT TOUGH BAND OF CONNECTIVE TISSUE CONNECTS BONES TO OTHER BONES AND STABILIZES JOINTS?",
+          "answer": "LIGAMENTS",
+          "value": 10
+        },
+        {
+          "question": "DURING A TELEVISED QUESTION AND ANSWER SESSION IN 1973, WHAT U.S. PRESIDENT FAMOUSLY STATED: WELL, I’M NOT A CROOK. I’VE EARNED EVERYTHING I’VE GOT?",
+          "answer": "RICHARD M. NIXON",
+          "value": 10
+        },
+        {
+          "question": "WHAT PERCENT OF ONE-HUNDRED TWENTY-FIVE IS FIVE HUNDRED?",
+          "answer": "FOUR HUNDRED PERCENT",
+          "value": 10
+        },
+        {
+          "question": "IN GEOMETRY, IF TWO ANGLES ARE COMPLEMENTS OF THE SAME ANGLE, THEN THEY ARE WHAT?",
+          "answer": "CONGRUENT",
+          "value": 10
+        },
+        {
+          "question": "LISTEN TO THIS SENTENCE: \"THE ATHLETE RAN SURPRISINGLY FAST.\" IN THAT SENTENCE, THE WORD \"SURPRISINGLY\" IS WHAT PART OF SPEECH?",
+          "answer": "AN ADVERB",
+          "value": 10
+        },
+        {
+          "question": "THIS SECULAR DAY OF OBSERVANCE FOR PLANTING TREES WAS FIRST OBSERVED IN THE UNITED STATES ON APRIL 10, 1872, IN NEBRASKA. NAME THIS DAY?",
+          "answer": "ARBOR DAY",
+          "value": 10
+        },
+        {
+          "question": "WHAT GERMAN COMPOSER WROTE FÜR ELISE AND THE FIFTH SYMPHONY?",
+          "answer": "LUDWIG VAN BEETHOVEN",
+          "value": 10
+        },
+        {
+          "question": "WHICH OF THE FOLLOWING ELEMENTARY TRIG FUNCTIONS HAS THE SMALLEST VALUE AT X EQUALS 170 DEGREES: THE COSINE OF X, SINE OF X, OR TANGENT OF X?",
+          "answer": "COSINE OF X",
+          "value": 10
+        },
+        {
+          "question": "THE SCAPULA IS MORE COMMONLY KNOWN AS WHAT BONE?",
+          "answer": "THE SHOULDER BLADE",
+          "value": 10
+        },
+        {
+          "question": "WHAT INTERNATIONAL DISTRESS SIGNAL IS DESIGNATED BY THE MORSE CODE CONSISTING OF 3 DOTS, 3 DASHES, AND 3 DOTS?",
+          "answer": "S-O-S",
+          "value": 10
+        },
+        {
+          "question": "COMPLETE THIS RELATIONSHIP: PARIS IS TO FRANCE AS WHAT CITY IS TO SERBIA?",
+          "answer": "BELGRADE",
+          "value": 10
+        },
+        {
+          "question": "THE BATTLE OF NEW ORLEANS TOOK PLACE AFTER A PEACE TREATY WAS ALREADY SIGNED IN EUROPE BY THE COMBATANTS ENDING WHAT U.S. WAR?",
+          "answer": "WAR OF 1812",
+          "value": 10
+        },
+        {
+          "question": "WHAT BLUE ALIEN IS THE TITLE CHARACTER OF A DISNEY FILM RELEASED IN 2002 - AND REMADE IN LIVE ACTION IN 2025?",
+          "answer": "STITCH",
+          "value": 10
+        },
+        {
+          "question": "WHAT IS THE GEOMETRIC MEAN OF THE NUMBERS 3, 6, AND 12?",
+          "answer": "6 (SIX)",
+          "value": 10
+        },
+        {
+          "question": "DATING FROM ANCIENT GREECE, WHAT DECORATIVE MOTIF, WHICH IS ALSO CALLED THE HORN OF PLENTY, HAS SYMBOLIZED ABUNDANCE?",
+          "answer": "CORNUCOPIA",
+          "value": 10
+        },
+        {
+          "question": "MARCH OF THE VOLUNTEERS IS THE OFFICIAL NATIONAL ANTHEM OF WHAT ASIAN NATION?",
+          "answer": "CHINA (ACCEPT: PEOPLE'S REPUBLIC OF CHINA)",
+          "value": 10
+        },
+        {
+          "question": "WHICH OF THESE 3-DIGIT NUMBERS IS NOT EVENLY DIVISIBLE BY 23: 230, 360, OR 690?",
+          "answer": "360",
+          "value": 10
+        },
+        {
+          "question": "WHAT CLASSIC CHILDREN’S BOOK BEGINS: WHERE’S PAPA GOING WITH THAT AXE, SAID FERN?",
+          "answer": "CHARLOTTE'S WEB",
+          "value": 10
+        },
+        {
+          "question": "NAME THE LARGEST ISLAND IN THE CARIBBEAN SEA.",
+          "answer": "CUBA",
+          "value": 10
+        },
+        {
+          "question": "WHEN TEXTING, THE LETTERS F-W-I-W ARE AN ABBREVIATION FOR WHAT?",
+          "answer": "FOR WHAT IT'S WORTH",
+          "value": 10
+        },
+        {
+          "question": "WHAT DECORATIVE SYMBOL, OFTEN ASSOCIATED WITH PEACE, IS TRADITIONALLY CARRIED IN ITS BEAK BY A DOVE?",
+          "answer": "AN OLIVE BRANCH",
+          "value": 10
+        },
+        {
+          "question": "A DELPHINIUM IS A TYPE OF WHAT? A BOAT, INSECT, FLOWER, OR COIN?",
+          "answer": "FLOWER",
+          "value": 10
+        },
+        {
+          "question": "THINK FAST ON THIS: ADD ALL THE MULTIPLES OF 4 BETWEEN 4 AND 16, INCLUSIVE, AND TELL ME THE SUM?",
+          "answer": "FORTY",
+          "value": 10
+        },
+        {
+          "question": "EE-OH OR EYE-OH IS THE INNERMOST AND SECOND SMALLEST OF THE FOUR GALILEAN MOONS OF THE PLANET JUPITER. SPELL THE NAME EE-OH OR EYE-OH?",
+          "answer": "I-O",
+          "value": 10
+        },
+        {
+          "question": "WHAT SOUTH AMERICAN ISLAND GROUP IS HOME TO, AND LENDS ITS NAME TO, THE ONLY BREED OF PENGUIN LIVING AT THE EQUATOR?",
+          "answer": "GALAPAGOS ISLANDS",
+          "value": 10
+        }
+      ],
+      "r2": [
+        {
+          "question": "RINGS ON THE OLYMPIC FLAG?",
+          "answer": "5",
+          "value": 5
+        },
+        {
+          "question": "PAIRS OF CHROMOSOMES IN A TYPICAL HUMAN CELL?",
+          "answer": "23",
+          "value": 5
+        },
+        {
+          "question": "AMENDMENTS IN THE BILL OF RIGHTS?",
+          "answer": "10",
+          "value": 5
+        },
+        {
+          "question": "THE NUMBER OF CORE TEAM MEMBERS IN THE 2012 MOVIE THE AVENGERS?",
+          "answer": "6",
+          "value": 5
+        },
+        {
+          "question": "MINUTES IN AN HOUR?",
+          "answer": "60",
+          "value": 5
+        },
+        {
+          "question": "KEYS ON A STANDARD PIANO?",
+          "answer": "88",
+          "value": 5
+        },
+        {
+          "question": "PLANETS IN OUR SOLAR SYSTEM?",
+          "answer": "8",
+          "value": 5
+        },
+        {
+          "question": "DOLLARS YOU COLLECT FOR PASSING GO IN MONOPOLY?",
+          "answer": "200",
+          "value": 5
+        },
+        {
+          "question": "ORIGINAL COLONIES IN THE UNITED STATES?",
+          "answer": "13",
+          "value": 5
+        },
+        {
+          "question": "DEGREES IN A RIGHT ANGLE?",
+          "answer": "90",
+          "value": 5
+        },
+        {
+          "question": "STARS ON THE CURRENT U.S. FLAG?",
+          "answer": "50",
+          "value": 5
+        },
+        {
+          "question": "CENTS IN A QUARTER?",
+          "answer": "25",
+          "value": 5
+        },
+        {
+          "question": "HOUSES AT HOGWARTS?",
+          "answer": "4",
+          "value": 5
+        },
+        {
+          "question": "ELEMENTS CURRENTLY ON THE PERIODIC TABLE?",
+          "answer": "118",
+          "value": 5
+        },
+        {
+          "question": "CARDS IN A STANDARD DECK, NOT COUNTING JOKERS?",
+          "answer": "52",
+          "value": 5
+        },
+        {
+          "question": "HOLES ON A REGULATION GOLF COURSE?",
+          "answer": "18",
+          "value": 5
+        },
+        {
+          "question": "DAYS IN FEBRUARY DURING A LEAP YEAR?",
+          "answer": "29",
+          "value": 5
+        },
+        {
+          "question": "LETTERS IN THE ENGLISH ALPHABET?",
+          "answer": "26",
+          "value": 5
+        },
+        {
+          "question": "DEGREES IN THE INTERIOR ANGLES OF A TRIANGLE?",
+          "answer": "180",
+          "value": 5
+        },
+        {
+          "question": "DALMATIANS IN THE TITLE OF THE 1961 DISNEY MOVIE?",
+          "answer": "101",
+          "value": 5
+        },
+        {
+          "question": "HOURS IN A DAY?",
+          "answer": "24",
+          "value": 5
+        },
+        {
+          "question": "PRIMARY COLORS OF LIGHT?",
+          "answer": "3",
+          "value": 5
+        },
+        {
+          "question": "THE “ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING” IN THE HITCHHIKER’S GUIDE TO THE GALAXY?",
+          "answer": "42",
+          "value": 5
+        },
+        {
+          "question": "OUNCES IN A POUND?",
+          "answer": "16",
+          "value": 5
+        },
+        {
+          "question": "PLAYERS AN AMERICAN FOOTBALL TEAM HAS ON THE FIELD AT ONE TIME?",
+          "answer": "11",
+          "value": 5
+        },
+        {
+          "question": "DEGREES IN A FULL CIRCLE?",
+          "answer": "360",
+          "value": 5
+        },
+        {
+          "question": "CENTS IN A DOLLAR?",
+          "answer": "100",
+          "value": 5
+        },
+        {
+          "question": "LINES IN A SONNET?",
+          "answer": "14",
+          "value": 5
+        },
+        {
+          "question": "CONTIG-UOUS STATES IN THE UNITED STATES?",
+          "answer": "48",
+          "value": 5
+        },
+        {
+          "question": "SYLLABLES IN A TRADITIONAL HAIKU?",
+          "answer": "17 [LQ]",
+          "value": 5
+        }
+      ],
+      "r3": {
+        "Arts & Entertainment::30": {
+          "qualifier": {
+            "question": "TO QUALIFY: TAKE A LOOK AT YOUR SCREENS, THIS ARTISTIC MEDIUM IS AMONG THE EARLIEST KNOWN DRAWING MATERIALS PRODUCED BY BURNING VINES OR TWIGS OF WOOD IN AN AIRLESS ATMOSPHERE. NAME THE MATERIAL?",
+            "answer": "CHARCOAL"
+          },
+          "category": [
+            {
+              "question": "LET’S IDENTIFY OTHER ARTISTIC MEDIUMS, FOR 10 POINTS EACH, TAKE A LOOK AT YOUR SCREEN. COMPOSED OF FINELY GROUND PIGMENT MIXED WITH A GUM TRAGA-CANTH BINDER, THIS DRAWING STICK CAN BE BLENDED USING BRUSHES OR FINGERS MUCH LIKE CHARCOAL?",
+              "answer": "PASTEL(S)",
+              "value": 10
+            },
+            {
+              "question": "NEXT, UNTIL THE 18TH CENTURY, NATURAL LUMPS OF THIS SOFT, GREASY MINERAL FORM OF CARBON WAS PLACED IN BONE OR WOOD HOLDERS FOR APPLICATION?",
+              "answer": "GRAPHITE",
+              "value": 10
+            },
+            {
+              "question": "AND FINALLY, THE OLDEST KNOWN USE OF THIS PAINT DATES BACK TO MURALS OF BUDDHA FROM THE 7TH CENTURY C-E IN AN ANCIENT CAVE COMPLEX IN BAMIYAN, AFGHANISTAN. THIS PAINT ALSO SHARES THE NAME OF THE BINDER ITS PIGMENT IS SUSPENDED IN?",
+              "answer": "OIL PAINTS",
+              "value": 10
+            }
+          ]
+        },
+        "Arts & Entertainment::25": {
+          "qualifier": {
+            "question": "TO QUALIFY: TAKE A LOOK AT YOUR SCREENS. IDENTIFY THIS MUSICAL SYMBOL?",
+            "answer": "TREBLE CLEF"
+          },
+          "category": [
+            {
+              "question": "THE TREBLE CLEF IS ALSO KNOWN AS THE G CLEF BECAUSE THE STAFF LINE WHICH THE CLEF WRAPS AROUND IS G. BASED ON THE TREBLE CLEF IDENTIFY THESE NOTES, FOR 10 POINTS, TAKE A LOOK AT YOUR SCREENS, FIRST: WHAT IS THIS NOTE?",
+              "answer": "C",
+              "value": 10
+            },
+            {
+              "question": "HOW ABOUT THIS ONE?",
+              "answer": "G",
+              "value": 10
+            },
+            {
+              "question": "AND FINALLY, FOR FIVE POINTS, WHAT NOTE IS PICTURED HERE?",
+              "answer": "A",
+              "value": 5
+            }
+          ]
+        },
+        "Arts & Entertainment::20": {
+          "qualifier": {
+            "question": "TO QUALIFY: THIS SINGER/SONGWRITER ADMITTED THAT HIS 1969 HIT, SWEET CAROLINE, WASN’T ENTIRELY INSPIRED BY PRESIDENTIAL DAUGHTER, CAROLINE KENNEDY. NAME THE ARTIST?",
+            "answer": "NEIL DIAMOND"
+          },
+          "category": [
+            {
+              "question": "HERE ARE 2 MORE CLASSIC SONGS THAT WERE INSPIRED BY REAL-LIFE PEOPLE, FOR 10 POINTS EACH. FIRST: ORIGINALLY WRITTEN IN 1973 IN HONOR OF ACTRESS MARILYN MONROE, THE ELTON JOHN SONG, CANDLE IN THE WIND, WAS RE-WRITTEN IN 1997 AS A TRIBUTE TO WHAT BRITISH ROYAL?",
+              "answer": "PRINCESS DIANA",
+              "value": 10
+            },
+            {
+              "question": "AND FINALLY: MANY BELIEVE AND SINGER/SONGWRITER DON MCLEAN HAS ADMITTED THAT THE REPEATED REFERENCES TO THE DAY THE MUSIC DIED IN THE 8-MINUTE-LONG 1972 HIT SINGLE, AMERICAN PIE, ARE A NOD TO WHAT ROCK & ROLL ICON, WHO DIED TRAGICALLY IN A 1959 PLANE CRASH AND HAD MULTIPLE HITS WITH HIS BAND, THE CRICKETS?",
+              "answer": "BUDDY HOLLY",
+              "value": 10
+            }
+          ]
+        },
+        "Arts & Entertainment::15": {
+          "qualifier": {
+            "question": "TO QUALIFY: For which of the following plays did Eugene O’Neill win his ONLY Tony Award for Best Play: Long Day’s Journey into Night, The Emperor Jones, or Desire Under the Elms?",
+            "answer": "LONG DAYS JOURNEY INTO NIGHT"
+          },
+          "category": [
+            {
+              "question": "Sticking with the theatre. I’ll name three plays, you tell me who the playwright was? For 5 points each. First: A Street Car Named Desire, The Rose Tattoo, Cat on a Hot Tin Roof?",
+              "answer": "TENNESSEE WILLIAMS",
+              "value": 5
+            },
+            {
+              "question": "Death of a Salesman, The Crucible, All My Sons?",
+              "answer": "ARTHUR MILLER",
+              "value": 5
+            },
+            {
+              "question": "And finally, how about: Ah Wilderness, The Iceman Cometh, Anna Christie?",
+              "answer": "EUGENE O’NEILL [LQ]",
+              "value": 5
+            }
+          ]
+        },
+        "World Events::30": {
+          "qualifier": {
+            "question": "AND WE HAVE A VIDEO QUALIFIER SO PLEASE TAKE A LOOK AT YOUR SCREENS…",
+            "answer": "US COAST GUARD"
+          },
+          "category": [
+            {
+              "question": "LET’S LOOK AT OTHER BRANCHES OF THE US MILITARY NOW FOR 10 POINTS EACH. TAKE A LOOK AT YOUR SCREEN. THIS MILITARY BRANCH WAS FOUNDED ON NOVEMBER 10, 1775 BY A RESOLUTION OF THE SECOND CONTINENTAL CONGRESS AND INITALLY SERVED AS AN INFANTRY UNITY ABOARD NAVAL VESSELS. NAME THIS BRANCH?",
+              "answer": "MARINE CORPS.",
+              "value": 10
+            },
+            {
+              "question": "OFFICIALLY BECOMING ITS OWN DISTINCT MILITARY BRANCH ON SEPTEMBER 18TH, 1947 ITS RESPONSIBILITIES WERE ONCE CARRIED OUT BY SIX PREDECESSOR ORGANIZATIONS. NAME THE BRANCH?",
+              "answer": "AIR FORCE",
+              "value": 10
+            },
+            {
+              "question": "AND FINALLY, THIS MILITARY BRANCH IS THE MOST RECENTLY FOUNDED, BECOMING OFFICIALLY ESTABLISHED ON DECEMBER 20TH, 2019. IT CURRENTLY USES THE MOTTO “SEMPER SUPRA” OR “ALWAYS ABOVE”. NAME IT?",
+              "answer": "SPACE FORCE [LQ]",
+              "value": 10
+            }
+          ]
+        },
+        "World Events::25": {
+          "qualifier": {
+            "question": "TO QUALIFY: CURRENTLY WITH 193 MEMBER STATES, WHAT INTERNATIONAL ORGANIZATION WAS FOUNDED AFTER WORLD WAR II TO PROMOTE PEACE, COOPERATION, AND HUMAN RIGHTS AMONG NATIONS.",
+            "answer": "UNITED NATIONS"
+          },
+          "category": [
+            {
+              "question": "MORE ABOUT THE UNITED NATIONS. FOR 10 POINTS EACH: THIS U-N BODY INCLUDES ALL MEMBER COUNTRIES AND GIVES EACH ONE A PLACE TO SPEAK AND VOTE ON GLOBAL ISSUES.",
+              "answer": "GENERAL ASSEMBLY",
+              "value": 10
+            },
+            {
+              "question": "THIS SMALLER U-N BODY HAS PRIMARY RESPONSIBILITY FOR INTERNATIONAL PEACE AND SECURITY, AND INCLUDES FIVE PERMANENT MEMBERS WITH VETO POWER.",
+              "answer": "SECURITY COUNCIL",
+              "value": 10
+            },
+            {
+              "question": "AND FINALLY FOR 5 POINTS, THIS U-N COURT, LOCATED IN THE HAGUE, SETTLES LEGAL DISPUTES BETWEEN COUNTRIES.",
+              "answer": "INTERNATIONAL COURT OF JUSTICE",
+              "value": 5
+            }
+          ]
+        },
+        "World Events::20": {
+          "qualifier": {
+            "question": "TO QUALIFY: OF THESE EVENTS FROM AMERICAN HISTORY, WHICH OCCURRED FIRST: THE BOSTON TEA PARTY, THE BOSTON MASSACRE, THE BATTLE OF LEXINGTON AND CONCORD, OR THE XYZ AFFAIR?",
+            "answer": "THE BOSTON MASSACRE"
+          },
+          "category": [
+            {
+              "question": "ALRIGHT, I’LL NAME 3 EVENTS FROM AMERICAN HISTORY. FOR 10 POINTS EACH, WHICH OCCURRED FIRST. LET’S BEGIN WITH: SHAY’S REBELLION, THE WHISKEY REBELLION, OR BACON’S REBELLION?",
+              "answer": "BACON’S REBELLION",
+              "value": 10
+            },
+            {
+              "question": "AND FINALLY: WHICH OF THESE BATTLES OCCURRED FIRST: THE BATTLE OF BENNINGTON, BATTLE OF LUNDY’S LANE, OR BATTLE OF CHANCELLORSVILLE?",
+              "answer": "THE BATTLE OF BENNINGTON [LQ]",
+              "value": 10
+            }
+          ]
+        },
+        "World Events::15": {
+          "qualifier": {
+            "question": "TO QUALIFY: TO QUALIFY: OF THE FOLLOWING NOTABLE FOSSILS, WHICH WAS NOT FIRST DISCOVERED IN GERMANY: HEIDELBERG MAN, CRO-MAGNON MAN, OR STEINHEIM MAN?",
+            "answer": "CRO-MAGNON MAN"
+          },
+          "category": [
+            {
+              "question": "STICKING WITH NOTABLE FOSSILS. FOR 5 POINTS, TELL ME THE COUNTRY WHERE EACH OF THE FOLLOWING WERE DISCOVERED. FIRST: JAVA MAN?",
+              "answer": "INDONESIA",
+              "value": 5
+            },
+            {
+              "question": "NEXT: CRO-MAGNON MAN?",
+              "answer": "FRANCE",
+              "value": 5
+            },
+            {
+              "question": "AND FINALLY, HOW ABOUT: PEKING MAN?",
+              "answer": "CHINA [LQ]",
+              "value": 5
+            }
+          ]
+        },
+        "Literature::30": {
+          "qualifier": {
+            "question": "TO QUALIFY: THIS COMMON FORM OF METAPHOR IS WHEN ONE OBJECT STANDS IN FOR ANOTHER CLOSELY ASSOCIATED OBJECT, FOR EXAMPLE THE WORD CROWN USED IN PLACE OF A KING, QUEEN, OR ROYAL AUTHORITY.",
+            "answer": "METONYMY"
+          },
+          "category": [
+            {
+              "question": "LET’S SEE WHAT YOU KNOW ABOUT TYPES OF METAPHOR FOR 10 POINTS EACH TAKE A LOOK AT YOUR SCREEN. THIS FORM OF METAPHOR IS WHEN A PART IS USED TO REPRESENT THE WHOLE.",
+              "answer": "SYNECDOCHE",
+              "value": 10
+            },
+            {
+              "question": "THIS FORM OF METAPHOR GIVES INANIMATE OBJECTS HUMAN-LIKE TRAITS.",
+              "answer": "PERSONIFICATION",
+              "value": 10
+            },
+            {
+              "question": "AND FINALLY, THIS FORM OF METAPHOR IS OFTEN FOUND IN EPIC POETRY.",
+              "answer": "EXTENDED METAPHOR",
+              "value": 10
+            }
+          ]
+        },
+        "Literature::25": {
+          "qualifier": {
+            "question": "TO QUALIFY: REGARDED AS ONE OF THE GREAT AMERICAN NOVELS, THIS STORY TAKES PLACE IN LONG ISLAND AND NEW YORK CITY DURING A HOT AND TENSE SUMMER IN 1925.",
+            "answer": "THE GREAT GATSBY"
+          },
+          "category": [
+            {
+              "question": "LET’S DIVE A LITTLE DEEPER INTO THE GREAT GATSBY NOW THESE ARE FOR 10 POINTS EACH. THE EVENTS OF THIS TEXT ARE NARRATED BY WHICH CHARACTER?",
+              "answer": "NICK CARRAWAY (ACCEPT: NICK)",
+              "value": 10
+            },
+            {
+              "question": "GATSBY INTRODUCES NICK TO MEYER WOLFSHEIM, A CRIMINAL ASSOCIATED WITH WHICH REAL WORLD GAMBLING CONTROVERSY?",
+              "answer": "THE 1919 WORLD SERIES",
+              "value": 10
+            },
+            {
+              "question": "AND FINALLY FOR 5 POINTS, TOM BUCHANAN’S MISTRESS, MYRTLE WILSON, IS KILLED BY A GOLD CAR DRIVEN BY WHOM?",
+              "answer": "DAISY BUCHANAN",
+              "value": 5
+            }
+          ]
+        },
+        "Literature::20": {
+          "qualifier": {
+            "question": "TO QUALIFY: THE PHILOSOPHICAL NOVEL, THE PICTURE OF DORIAN GRAY, WAS FIRST PUBLISHED AS A SERIAL STORY IN AN 1890 ISSUE OF LIPPINCOTT’S MONTHLY MAGAZINE. NAME THE AUTHOR?",
+            "answer": "OSCAR WILDE"
+          },
+          "category": [
+            {
+              "question": "SERIAL NOVELS WERE IMMENSELY POPULAR DURING THE 19TH CENTURY. HERE ARE CLUES TO 2 FAMOUS BOOKS THAT FIRST APPEARED IN SERIAL FORM. FOR 10 POINTS EACH. FIRST: NATIONAL INTEREST IN THE ANTI-SLAVERY MOVEMENT INCREASED WITH EACH WEEKLY INSTALLMENT IN THE NATIONAL ERA IN 1851-1852 OF WHAT SUBSEQUENTLY PUBLISHED BOOK BY HARRIET BEECHER STOWE?",
+              "answer": "UNCLE TOM’S CABIN",
+              "value": 10
+            },
+            {
+              "question": "AND FINALLY: BRITISH NOVELIST CHARLES DICKENS CONTINUED TO SERIALIZE HIS NOVELS UNTIL HIS DEATH IN 1870, WHEN HE LEFT READERS WITHOUT AN ENDING TO WHAT BOOK, HIS FINAL WORK?",
+              "answer": "THE MYSTERY OF EDWIN DROOD [LQ]",
+              "value": 10
+            }
+          ]
+        },
+        "Literature::15": {
+          "qualifier": {
+            "question": "TO QUALIFY: WHAT TYPE OF ANNUAL PUBLICATION BEGINNING WITH THE LETTER A CONTAINS METEOROLOGICAL AND ASTRONOMICAL DATA ABOUT A SPECIFIC YEAR, IN ADDITION TO ASSORTED GENERAL INFORMATION?",
+            "answer": "ALMANAC"
+          },
+          "category": [
+            {
+              "question": "FOR 5 POINTS EACH, LET’S KEEP REFERENCE TEXTS AS OUR CATEGORY. A THESAURUS IS A COLLECTION OF WORDS WITH IDENTICAL OR SIMILAR MEANINGS KNOWN AS WHAT?",
+              "answer": "SYNONYMS",
+              "value": 5
+            },
+            {
+              "question": "THE WORDS JAM BAND, SHADOW BAN AND NEPO BABY WERE ADDED BY EDITORS TO THE LATEST VERSION OF WHAT TYPE OF REFERENCE TEXT?",
+              "answer": "DICTIONARY",
+              "value": 5
+            },
+            {
+              "question": "WHAT IS THE LIST OF DEFINITIONS FOR ANY SPECIALIZED VOCABULARY USED IN A PARTICULAR TEXT OR FIELD CALLED?",
+              "answer": "GLOSSARY [LQ]",
+              "value": 5
+            }
+          ]
+        },
+        "Social Studies::30": {
+          "qualifier": {
+            "question": "TO QUALIFY: DATING BACK TO AS EARLY AS 3250 B.C., WHAT WRITING SYSTEM USING NEARLY ONE THOUSAND UNIQUE PICTURES AND SYMBOLS WAS DEVELOPED BY THE ANCIENT EGYPTIANS?",
+            "answer": "HIEROGLYPHICS"
+          },
+          "category": [
+            {
+              "question": "MORE ABOUT ANCIENT EGYPT FOR 10 POINTS EACH. THOUGHT TO ORIGINALLY HAVE BEEN PRODUCED IN 196 B.C. AND REDISCOVERED IN 1799 DURING A FRENCH MILITARY CAMPAIGN IN EGYPT WHAT FAMOUS ARTIFACT HAS HELPED SCHOLARS DECIPHER HIEROGLYPHICS?",
+              "answer": "ROSETTA STONE",
+              "value": 10
+            },
+            {
+              "question": "WHAT TITLE WAS GIVEN TO THE RULERS OF ANCIENT EGYPT BEGINNING WITH NARMER AROUND 3100 BCE?",
+              "answer": "PHARAOH",
+              "value": 10
+            },
+            {
+              "question": "AND FINALLY, WHAT SACRED 70-DAY PRESERVATION PROCESS WAS DESIGNED TO KEEP THE PHYSICAL BODY INTACT SO THE SOUL COULD RECOGNIZE IT AND LIVE FOREVER IN THE AFTERLIFE?",
+              "answer": "MUMMIFICATION",
+              "value": 10
+            }
+          ]
+        },
+        "Social Studies::25": {
+          "qualifier": {
+            "question": "YOU HAVE PICKED THE WESTFIELD STATE ENTRANCE EXAM QUESTION! IF YOU GET THE QUALIFIER AND ALL OF THE CATEGORY QUESTIONS CORRECT YOU’LL WIN AN ADDITIONAL 10 POINTS ! GOOD LUCK, TO QUALIFY: WHAT TERM MEANING \"BETWEEN RIVERS\" IS USED TO DESCRIBE THE REGION OF ONE OF THE EARLIEST CIVILIZATIONS?",
+            "answer": "MESOPOTAMIA"
+          },
+          "category": [
+            {
+              "question": "FOR 5 POINTS A PIECE, LET'S DIG DEEPER INTO MESOPOTAMIA, TAKE A LOOK AT YOUR SCREEN. WHAT MATERIAL WAS COMMONLY USED AS A WRITING SURFACE IN MESOPOTAMIA?",
+              "answer": "CLAY TABLETS",
+              "value": 5
+            },
+            {
+              "question": "WHAT STEPPED TEMPLE STRUCTURE WAS BUILT BY MESOPOTAMIAN CIVILIZATIONS?",
+              "answer": "ZIGGURAT",
+              "value": 5
+            },
+            {
+              "question": "WHAT CITY WAS THE CENTER OF HAMMURABI'S KINGDOM?",
+              "answer": "BABYLON",
+              "value": 5
+            },
+            {
+              "question": "THE TIGRIS AND EUPHRATES RIVERS EMPTY INTO WHAT BODY OF WATER?",
+              "answer": "THE PERSIAN GULF",
+              "value": 5
+            },
+            {
+              "question": "AND LASTLY, CUNEIFORM CHARACTERS WERE TYPICALLY IMPRESSED INTO CLAY TABLETS USING WHAT TOOL?",
+              "answer": "A REED STYLUS (IF ALL CORRECT BONUS POINTS)",
+              "value": 5
+            }
+          ]
+        },
+        "Social Studies::20": {
+          "qualifier": {
+            "question": "TO QUALIFY: NAME THE CAPITAL OF THE AFRICAN COUNTRY OF LIBYA?",
+            "answer": "TRIPOLI"
+          },
+          "category": [
+            {
+              "question": "MORE WITH AFRICAN CAPITALS, IN REVERSE. THIS TIME I’LL NAME THE CITY, YOU NAME THE COUNTRY. THESE ARE FOR 10 POINTS EACH. FIRST: KHARTOUM (CAR-TOOM)",
+              "answer": "SUDAN",
+              "value": 10
+            },
+            {
+              "question": "AND FINALLY, NAIROBI?",
+              "answer": "KENYA [LQ]",
+              "value": 10
+            }
+          ]
+        },
+        "Social Studies::15": {
+          "qualifier": {
+            "question": "TO QUALIFY: IN WHAT CITY DID THE EGYPTIAN KING PTOLEMY (TALL-AH-ME) THE FIRST ESTABLISH HIS GREAT LIBRARY, WHICH FLOURISHED AS A MAJOR CENTER OF MODERN SCHOLARSHIP DURING HIS REIGN AND IS SAID TO HAVE CONTAINED 700,000 VOLUMES?",
+            "answer": "ALEXANDRIA"
+          },
+          "category": [
+            {
+              "question": "THE LIBRARY OF ALEXANDRIA AND ITS ASSOCIATED MUSEUM ARE LIKELY PRECURSORS OF THE MODERN UNIVERSITY LIBRARY SYSTEM, WHICH HAPPENs TO BE OUR CATEGORY NOW FOR 5 POINTS EACH. FEATURING ONE OF THE FEW ORIGINAL GUTENBERG BIBLES, THE BEINEKE (BY-NICK) RARE BOOK AND MANUSCRIPT LIBRARY IS LOCATED AT YALE UNIVERSITY IN WHAT AMERICAN CITY?",
+              "answer": "NEW HAVEN",
+              "value": 5
+            },
+            {
+              "question": "THE OLDEST UNIVERSITY LIBRARY IN AMERICA BEGAN IN 1636 WITH AN APPROXIMATELY 400-BOOK PERSONAL DONATION BY THE MASSACHUSETTS CLERGYMAN, JOHN HARVARD, TO A NEW UNIVERSITY IN WHAT CITY?",
+              "answer": "CAMBRIDGE, MA",
+              "value": 5
+            },
+            {
+              "question": "PERMANENT HOME OF THE BOOK OF KELLS MANUSCRIPT, TRINITY COLLEGE LIBRARY IS LOCATED IN WHAT IRISH CITY?",
+              "answer": "DUBLIN [LQ]",
+              "value": 5
+            }
+          ]
+        },
+        "Math & Science::30": {
+          "qualifier": {
+            "question": "TO QUALIFY: TAKE A LOOK AT YOUR SCREEN: DMITRI MENDELEEV’S FAMOUS \"EKA-ALUMINUM\" PREDICTED THE EXISTENCE OF THIS ELEMENT, WHICH IS ONE OF THE VERY FEW ELEMENTS THAT CAN MELT DIRECTLY IN THE PALM OF YOUR HAND",
+            "answer": "GALLIUM"
+          },
+          "category": [
+            {
+              "question": "MORE ABOUT THE NAMING OF ELEMENTS ON THE PERIODIC TABLE, THESE ARE 10 POINTS EACH TAKE A LOOK AT YOUR SCREEN: THE ELEMENT THAT DMITRI MENDELEEV CALLED EKA-SILICON WAS LATER GIVEN THIS NAME, AFTER THE EUROPEAN COUNTRY WHERE IT WAS DISCOVERED",
+              "answer": "GERMANIUM",
+              "value": 10
+            },
+            {
+              "question": "PREDICTED BY MENDELEEV AS “EKA-BORON,” THIS ELEMENT WAS DISCOVERED IN 1879 AND NAMED IN HONOR OF THE SCANDINAVIAN REGION WHERE ITS ORE WAS UNCOVERED.",
+              "answer": "SCANDIUM",
+              "value": 10
+            },
+            {
+              "question": "AND FINALLY: THIS ELEMENT WAS PREDICTED AS “EKA-MANGANESE.” BECAUSE IT IS HIGHLY UNSTABLE AND RADIOACTIVE, IT BECAME THE VERY FIRST ELEMENT TO BE PRODUCED ENTIRELY ARTIFICIALLY IN A LABORATORY, GIVING RISE TO ITS NAME FROM THE GREEK WORD FOR \"ARTIFICIAL\"?",
+              "answer": "TECHNETIUM (TEK-NEE-SHEE-UM)",
+              "value": 10
+            }
+          ]
+        },
+        "Math & Science::25": {
+          "qualifier": {
+            "question": "TO QUALIFY: ANGLES A AND B ARE COMPLEMENTARY, AND ANGLES B AND C ARE SUPPLEMENTARY. IF ANGLE A IS FIFTY DEGREES, WHAT IS THE MEASURE OF ANGLE C?",
+            "answer": "ONE HUNDRED FORTY DEGREES (140°)"
+          },
+          "category": [
+            {
+              "question": "WHAT’S THE ANGLE HERE? LISTEN CAREFULLY TO THE PROBLEM I GIVE AND YOU TELL ME THE ANGLE, THESE ARE FOR 5 POINTS EACH. WHAT IS THE SUPPLEMENT TO AN ANGLE WHOSE MEASURE IS SEVENTY TWO DEGREES?",
+              "answer": "ONE HUNDRED AND EIGHT DEGREES (108°)",
+              "value": 5
+            },
+            {
+              "question": "WHAT IS THE COMPLEMENT TO AN ANGLE WHOSE MEASURE IS TWENTY SEVEN DEGREES?",
+              "answer": "SIXTY THREE DEGREES (63°)",
+              "value": 5
+            },
+            {
+              "question": "IF TWO ANGLES ARE VERTICAL ANGLES AND ONE MEASURES SIXTY EIGHT DEGREES, WHAT IS THE MEASURE OF THE OTHER?",
+              "answer": "SIXTY EIGHT DEGREES (68°)",
+              "value": 5
+            },
+            {
+              "question": "WHAT IS THE MEASURE OF AN ANGLE WHOSE SUPPLEMENT IS ITSELF?",
+              "answer": "NINETY DEGREES (90°)",
+              "value": 5
+            },
+            {
+              "question": "WHAT IS THE MEASURE OF AN ANGLE WHOSE COMPLEMENT IS ITSELF?",
+              "answer": "FORTY FIVE DEGREES (45°)",
+              "value": 5
+            }
+          ]
+        },
+        "Math & Science::20": {
+          "qualifier": {
+            "question": "TO QUALIFY: THE FIRST INEXPENSIVE INDUSTRIAL METHOD FOR MASS-PRODUCING THIS ALLOY OF IRON AND CARBON WAS THE BESSEMER PROCESS. NAME THE ALLOY?",
+            "answer": "STEEL"
+          },
+          "category": [
+            {
+              "question": "AS STRONG AS STEEL NOW FOR 10 POINTS. THROUGH THE PROCESS OF GALVANIZATION, STEEL CAN BE PREVENTED FROM RUSTING. GALVANIZATION CAN BE ACCOMPLISHED BY APPLYING A COATING OF WHAT CHEMICAL ELEMENT: ZINC, TITANIUM, OR COPPER?",
+              "answer": "ZINC",
+              "value": 10
+            },
+            {
+              "question": "IF YOU WANT YOUR STEEL TO BE STAINLESS, YOU’LL NEED TO ALLOY IT WITH WHAT OTHER CHEMICAL ELEMENT: ZINC, CHROMIUM, OR TITANIUM?",
+              "answer": "CHROMIUM [LQ]",
+              "value": 10
+            }
+          ]
+        },
+        "Math & Science::15": {
+          "qualifier": {
+            "question": "TO QUALIFY: GRAB YOUR PENS FOR THIS ONE. IF THERE ARE 3 TEASPOONS IN 1 TABLESPOON, HOW MANY TEASPOONS ARE THERE IN 39 TABLESPOONS?",
+            "answer": "117"
+          },
+          "category": [
+            {
+              "question": "MORE WEIGHTS AND MEASURES. YOU MAY WANT TO KEEP YOUR PENS HANDY. FOR 5 POINTS EACH. FIRST: THERE ARE 16 OUNCES IN ONE POUND. HOW MANY OUNCES ARE THERE IN 7.5 POUNDS?",
+              "answer": "120",
+              "value": 5
+            },
+            {
+              "question": "4 PECKS MAKE UP ONE BUSHEL. HOW MANY PECKS MAKE UP 73 BUSHELS?",
+              "answer": "292",
+              "value": 5
+            },
+            {
+              "question": "AND FINALLY: THERE ARE 128 OUNCES IN ONE GALLON. HOW MANY OUNCES ARE THERE IN 20 GALLONS?",
+              "answer": "2560 [LQ]",
+              "value": 5
+            }
+          ]
+        },
+        "General Knowledge::30": {
+          "qualifier": {
+            "question": "TO QUALIFY: WHAT 4-LETTER WORD COULD FIT ALL OF THE FOLLOWING BLANKS: BLANK END, BLANK WORM, AND OPEN BLANK?",
+            "answer": "BOOK"
+          },
+          "category": [
+            {
+              "question": "FIND THE WORD BOOK IN EACH OF THE FOLLOWING ANSWERS. THESE ARE FOR 10 POINTS EACH. FIRST: CONTAINING A LIST OF TACTICS OR METHODS, FOOTBALL PLAYERS USE THIS AS A GUIDE DURING GAME DAY?",
+              "answer": "PLAYBOOK",
+              "value": 10
+            },
+            {
+              "question": "A CREATIVE HOBBY USING PHOTOGRAPHS, JOURNAL ENTRIES, MAGAZINE CLIPPINGS, AND STICKERS TO PRESERVE PERSONAL EXPERIENCES AND MEMORIES?",
+              "answer": "SCRAPBOOKING",
+              "value": 10
+            },
+            {
+              "question": "AND FINALLY: YOU’LL WANT YOUR FRIENDS TO SIGN THIS SCHOOL PUBLICATION WITH WELL WISHES AND HOPES THAT YOU HAVE A GOOD SUMMER?",
+              "answer": "YEARBOOK",
+              "value": 10
+            }
+          ]
+        },
+        "General Knowledge::25": {
+          "qualifier": {
+            "question": "TO QUALIFY: IN THE UNITED STATES TIME IS TYPICALLY KEPT USING A 12-HOUR CLOCK. THE TWO WELL-KNOWN EXCEPTIONS IN THE U.S. THAT USE A 24-HOUR CLOCK ARE HOSPITALS AND WHAT FEDERAL ORGANIZATION?",
+            "answer": "MILITARY"
+          },
+          "category": [
+            {
+              "question": "LET’S SEE IF YOU CAN CONVERT 24-HOUR OR MILITARY TIME INTO STANDARD 12-HOUR TIME. FOR TEN POINTS TAKE A LOOK AT YOUR SCREEN, FIRST: THIRTEEN HUNDRED HOURS?",
+              "answer": "1:00 PM",
+              "value": 10
+            },
+            {
+              "question": "NEXT: ZERO THREE TWENTY HOURS?",
+              "answer": "3:20 AM",
+              "value": 10
+            },
+            {
+              "question": "AND FINALLY, FOR 5 POINTS: TWENTY THREE FORTY-FIVE HOURS?",
+              "answer": "11:45 PM",
+              "value": 5
+            }
+          ]
+        },
+        "General Knowledge::20": {
+          "qualifier": {
+            "question": "TO QUALIFY: What personal finance term describes the money remaining after all taxes and other deductions have been taken out of a paycheck?",
+            "answer": "TAKE-HOME PAY (accept: NET PAY / NET INCOME)"
+          },
+          "category": [
+            {
+              "question": "More about everyday personal finance, for 10 points each. What three-digit number, ranging from 300 to 850, is commonly used by lenders to estimate a person's creditworthiness?",
+              "answer": "CREDIT SCORE (accept: FICO SCORE)",
+              "value": 10
+            },
+            {
+              "question": "And finally: What type of bank account is designed for everyday spending and typically allows frequent deposits and withdrawals?",
+              "answer": "CHECKING ACCOUNT",
+              "value": 10
+            }
+          ]
+        },
+        "General Knowledge::15": {
+          "qualifier": {
+            "question": "TO QUALIFY: What is the current geologic EPOCH: the PAY-lee-oh-seen, Miocene, or Holocene?",
+            "answer": "HOLOCENE EPOCH"
+          },
+          "category": [
+            {
+              "question": "More about the geologic time scale. These are for 5 points each. First: What is the CURRENT geologic PERIOD: the Cambrian Period, Tertiary Period, or Quarter-nary Period?",
+              "answer": "QUARTER-NARY PEROID",
+              "value": 5
+            },
+            {
+              "question": "What’s the CURRENT geologic ERA: the Meso-zoic Era, Ceno-zoic Era, or Paleo-zoic Era?",
+              "answer": "CENO-ZOIC",
+              "value": 5
+            },
+            {
+              "question": "And finally: Dinosaurs first appeared during what geologic PERIOD: the Cretaceous Period, Triassic Period, or Jurassic Period?",
+              "answer": "TRIASSIC [LQ]",
+              "value": 5
+            }
+          ]
+        }
+      },
+      "r4": [
+        {
+          "question": "FIRST RELEASED: THE IPHONE OR THE FIRST ANDROID PHONE?",
+          "answer": "IPHONE",
+          "value": 5
+        },
+        {
+          "question": "FIRST LAUNCHED: WIKIPEDIA OR YOUTUBE?",
+          "answer": "WIKIPEDIA",
+          "value": 5
+        },
+        {
+          "question": "FIRST RELEASED: MINECRAFT OR FORTNITE?",
+          "answer": "MINECRAFT",
+          "value": 5
+        },
+        {
+          "question": "FIRST PIXAR FEATURE FILM: TOY STORY OR FINDING NEMO?",
+          "answer": "TOY STORY",
+          "value": 5
+        },
+        {
+          "question": "FIRST MOVIE IN THE MARVEL CINEMATIC UNIVERSE: IRON MAN OR THOR?",
+          "answer": "IRON MAN",
+          "value": 5
+        },
+        {
+          "question": "FIRST PUBLISHED: THE HUNGER GAMES OR DIVERGENT?",
+          "answer": "THE HUNGER GAMES",
+          "value": 5
+        },
+        {
+          "question": "FIRST AIRED: AVATAR: THE LAST AIRBENDER OR THE LEGEND OF KORRA?",
+          "answer": "AVATAR: THE LAST AIRBENDER",
+          "value": 5
+        },
+        {
+          "question": "FIRST RELEASED: NINTENDO SWITCH OR PLAYSTATION 5?",
+          "answer": "NINTENDO SWITCH",
+          "value": 5
+        },
+        {
+          "question": "FIRST MODERN SOCIAL MEDIA LAUNCH: INSTAGRAM OR TIKTOK?",
+          "answer": "INSTAGRAM",
+          "value": 5
+        },
+        {
+          "question": "FIRST STREAMING TV HIT: HOUSE OF CARDS ON NETFLIX OR THE MANDALORIAN ON DISNEY+?",
+          "answer": "HOUSE OF CARDS",
+          "value": 5
+        },
+        {
+          "question": "FIRST DISNEY ANIMATED PRINCESS MOVIE: SNOW WHITE AND THE SEVEN DWARFS OR CINDERELLA?",
+          "answer": "SNOW WHITE AND THE SEVEN DWARFS",
+          "value": 5
+        },
+        {
+          "question": "FIRST STAR WARS MOVIE RELEASED: A NEW HOPE OR THE EMPIRE STRIKES BACK?",
+          "answer": "A NEW HOPE",
+          "value": 5
+        },
+        {
+          "question": "FIRST PUBLISHED: THE LORD OF THE RINGS OR THE CHRONICLES OF NARNIA?",
+          "answer": "THE CHRONICLES OF NARNIA",
+          "value": 5
+        },
+        {
+          "question": "FIRST OLYMPIC GAMES HELD IN BEIJING: SUMMER OLYMPICS OR WINTER OLYMPICS?",
+          "answer": "SUMMER OLYMPICS",
+          "value": 5
+        },
+        {
+          "question": "FIRST FIFA WORLD CUP TOURNAMENT: MEN’S OR WOMEN’S?",
+          "answer": "MEN’S",
+          "value": 5
+        },
+        {
+          "question": "FIRST TO HAPPEN: THE FOUR-MINUTE MILE OR THE FIRST SUPER BOWL?",
+          "answer": "THE FOUR-MINUTE MILE",
+          "value": 5
+        },
+        {
+          "question": "FIRST WOMAN IN SPACE: VALENTINA TERESHKOVA OR SALLY RIDE?",
+          "answer": "VALENTINA TERESHKOVA",
+          "value": 5
+        },
+        {
+          "question": "FIRST OBJECT TO REACH THE MOON: LUNA 2 OR APOLLO 11?",
+          "answer": "LUNA 2",
+          "value": 5
+        },
+        {
+          "question": "FIRST MAJOR VACCINE: SMALLPOX VACCINE OR POLIO VACCINE?",
+          "answer": "SMALLPOX VACCINE",
+          "value": 5
+        },
+        {
+          "question": "FIRST DISCOVERED BY SCIENTISTS: ELECTRON OR PROTON?",
+          "answer": "ELECTRON",
+          "value": 5
+        },
+        {
+          "question": "FIRST INTRODUCED: QR CODE OR BARCODE SCAN IN A STORE?",
+          "answer": "BARCODE SCAN IN A STORE",
+          "value": 5
+        },
+        {
+          "question": "FIRST INVENTED: EMAIL OR TEXT MESSAGING?",
+          "answer": "EMAIL",
+          "value": 5
+        },
+        {
+          "question": "FIRST LAUNCHED: SNAPCHAT OR VINE?",
+          "answer": "SNAPCHAT",
+          "value": 5
+        },
+        {
+          "question": "FIRST RELEASED: FROZEN OR MOANA?",
+          "answer": "FROZEN",
+          "value": 5
+        },
+        {
+          "question": "FIRST RELEASED: BLACK PANTHER OR SPIDER-MAN: INTO THE SPIDER-VERSE?",
+          "answer": "BLACK PANTHER",
+          "value": 5
+        },
+        {
+          "question": "FIRST PUBLISHED: THE FAULT IN OUR STARS OR THE HATE U GIVE?",
+          "answer": "THE FAULT IN OUR STARS",
+          "value": 5
+        },
+        {
+          "question": "FIRST ALBUM RELEASED: 1989 BY TAYLOR SWIFT OR LEMONADE BY BEYONCÉ?",
+          "answer": "1989",
+          "value": 5
+        },
+        {
+          "question": "FIRST MARS ROVER MISSION: SOJOURNER OR CURIOSITY?",
+          "answer": "SOJOURNER",
+          "value": 5
+        },
+        {
+          "question": "FIRST HISTORICAL DOCUMENT: MAGNA CARTA OR DECLARATION OF INDEPENDENCE?",
+          "answer": "MAGNA CARTA",
+          "value": 5
+        },
+        {
+          "question": "FIRST EMPIRE: ROMAN EMPIRE OR BYZANTINE EMPIRE?",
+          "answer": "ROMAN EMPIRE",
+          "value": 5
+        }
+      ]
+    }
+  }
+}
