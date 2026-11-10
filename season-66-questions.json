@@ -4406,7 +4406,7 @@
           "value": 10
         },
         {
-          "question": "This 2023 film tells the story of physicist J. Robert Oppenheimer and the development of the atomic bomb.",
+          "question": "This 2023 film tells the story of the development of the atomic bomb.",
           "answer": "OPPENHEIMER",
           "value": 10
         },
@@ -5304,8 +5304,8 @@
           "value": 5
         },
         {
-          "question": "HAMLET, BEOWULF, MACBETH",
-          "answer": "BEOWULF (NOT A SHAKESPEARE PLAY)",
+          "question": "HAMLET, DR. FAUSTUS, MACBETH",
+          "answer": "DR. FAUSTUS (NOT A SHAKESPEARE PLAY)",
           "value": 5
         },
         {
@@ -5773,8 +5773,8 @@
               "value": 5
             },
             {
-              "question": "WHAT TERM DESCRIBES THE TAX OR DUTY IMPOSED BY A GOVERNMENT ON GOODS IMPORTED FROM ANOTHER COUNTRY, OFTEN TO PROTECT DOMESTIC INDUSTRIES?",
-              "answer": "TARIFF",
+              "question": "WHAT TERM DESCRIBES AN OFFICIAL GOVERNMENT BAN ON TRADE WITH A PARTICULAR COUNTRY, OFTEN USED AS A POLITICAL OR ECONOMIC PENALTY?",
+              "answer": "EMBARGO",
               "value": 5
             },
             {
@@ -7253,8 +7253,8 @@
           "value": 5
         },
         {
-          "question": "THE XYZ AFFAIR OCCURS?",
-          "answer": "JOHN ADAMS",
+          "question": "THE SINKING OF THE TITANIC?",
+          "answer": "WILLIAM HOWARD TAFT",
           "value": 5
         },
         {
@@ -8355,8 +8355,8 @@
           "value": 5
         },
         {
-          "question": "A style of design known for flowing lines and nature-inspired patterns?",
-          "answer": "ART NOUVEAU",
+          "question": "He was Paul Simon’s partner in the duo behind “The Sound of Silence” and “Mrs. Robinson”?",
+          "answer": "ART GARFUNKEL",
           "value": 5
         },
         {
@@ -8390,13 +8390,13 @@
           "value": 5
         },
         {
-          "question": "A word meaning clever or crafty, as in “the BLANK Dodger”?",
-          "answer": "ARTFUL",
+          "question": "This term describes a high-capacity road that carries traffic between local streets and highways?",
+          "answer": "ARTERIAL ROAD",
           "value": 5
         },
         {
-          "question": "The Chrysler Building and Empire State Building are examples of this design style",
-          "answer": "ART-DECO",
+          "question": "In 1933, this man founded the NFL team that began as the Pittsburgh Pirates and became the Steelers?",
+          "answer": "ART ROONEY",
           "value": 5
         }
       ]
@@ -10259,8 +10259,8 @@
           "value": 5
         },
         {
-          "question": "A paperclip or a pencil?",
-          "answer": "PAPERCLIP",
+          "question": "A teaspoon or a tablespoon?",
+          "answer": "TEASPOON",
           "value": 5
         },
         {
